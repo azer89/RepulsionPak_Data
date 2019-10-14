@@ -1,1 +1,3 @@
-output/*
+output/PNG/*
+output/SVG/*
+output/*.txt
