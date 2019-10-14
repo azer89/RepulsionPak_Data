@@ -1,1 +1,0 @@
-folder where the output is stored
