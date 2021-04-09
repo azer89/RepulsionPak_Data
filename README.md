@@ -1,1 +1,1 @@
-Folder containing input and output data for RepulsionPak
+Folders containing input and output data for RepulsionPak
